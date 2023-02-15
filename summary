@@ -1,0 +1,18 @@
+//*Инициализация репозитория*//
+1) git init .. Инициинировать репозиторий  - Initialized empty Git repository in D:/1.1_WEB/Lesson_git/.git/
+
+//*Добавление юзера в гит*/
+2)  git config --local user.name "Pavel"
+    git config --local user.email js.webzap@gmail.com
+
+Три состояния файлов 1-) Создан 2-)Слежка гита 3-)Гит создал контрольную точку
+
+Просмотр статус репозитория - git status
+
+Перевод файлов в индекс - git add -A
+
+Перевод определенный файлов в индекс git add nameFile
+
+Создания коммита git commit - a -m"fist commit"
+
+
